@@ -37,6 +37,7 @@ Please, contribute according to the [guidelines](/CONTRIBUTING.md).
 - [CEPDB](http://cepdb.molecularspace.org) - Harvard Clean Energy Project.
 - [Citrination](https://citrination.com) - AI-Powered Materials Data Platform (partly _proprietary_).
 - [COD](http://crystallography.net) - Crystallography Open Database (including theoretical database).
+- [CoRE-MOF database](http://gregchung.github.io/CoRE-MOFs/): Computation-ready database of experimental metal-organic frameworks. 
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
 - [Materials Cloud](http://www.materialscloud.org) - A Platform for Open Materials Science.
 - [Materials Project](http://www.materialsproject.org) - computed information on known and predicted materials.
@@ -53,6 +54,7 @@ Please, contribute according to the [guidelines](/CONTRIBUTING.md).
 - [RRUFF](http://rruff.info) - integrated database of Raman spectra, X-ray diffraction and chemistry data for minerals.
 - [WURM](http://wurm.info) - database of computed physical properties of minerals.
 - [Zeolite Structures Database](http://www.iza-structure.org/databases)
+- [ZEOMICS](http://helios.princeton.edu/zeomics) / [MOFomics](http://helios.princeton.edu/mofomics): Automated characterization of networks zeolites and metal-organic frameworks.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
