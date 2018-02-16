@@ -54,7 +54,7 @@ Please, contribute according to the [guidelines](/CONTRIBUTING.md).
 - [RRUFF](http://rruff.info) - integrated database of Raman spectra, X-ray diffraction and chemistry data for minerals.
 - [WURM](http://wurm.info) - database of computed physical properties of minerals.
 - [Zeolite Structures Database](http://www.iza-structure.org/databases)
-- [ZEOMICS](http://helios.princeton.edu/zeomics) / [MOFomics](http://helios.princeton.edu/mofomics): Automated characterization of networks zeolites and metal-organic frameworks.
+- [ZEOMICS](http://helios.princeton.edu/zeomics) / [MOFomics](http://helios.princeton.edu/mofomics): Automated characterization of networks of zeolites and metal-organic frameworks.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
